@@ -11,4 +11,4 @@ def es_palindromo(cadena):
     return cadena == cadena[::-1]
 
 print(es_palindromo("Anita lava la tina"))
-print(es_palindromo("Hola mundo"))
+print(es_palindromo("Hola mundo"))"# Nueva actualizaci¢n" 
